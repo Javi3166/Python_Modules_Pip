@@ -4,7 +4,9 @@ print(Useful_Tools.roll_dice(10))
 
 """
 PyCharm already comes with a lot of other modules. It is possible to get external modules developed by other people. 
-Just need to Google them. Once I find one I like, I just need to open the PyCharm Terminal and type:
+Just need to Google them. Once I add them, they will show up under External Libraries > site-packages.
+
+Once I find one I like, I just need to open the PyCharm Terminal and type:
 
 pip install MODULE_NAME
 
